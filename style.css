@@ -1,0 +1,66 @@
+body {
+	font-family: times new roman;
+	text-align: center;
+	background: green
+	  }
+  
+
+h1 {color: white;}
+   
+
+h2 { color: white }
+
+p {color: white}
+
+ol, h3 {
+	text-align: left;
+	color: white
+}
+
+a { background: pink
+ }
+
+a:hover {
+  color: green;
+}
+
+
+
+img {width: 200px;
+	height: 200px;
+	object-fit: cover;
+	border-radius: 15%;
+	box-shadow: 10px 10px 25px black;
+
+}
+
+.avatar {width: 200px;
+	height: 200px;
+	object-fit: contain;
+	
+}
+
+.avatar2 {width: 200px;
+	height: 200px;
+	object-fit: contain;
+	
+}
+
+.avatar3 {width: 205px;
+	height: 205px;
+	object-fit: contain;
+
+}
+
+.red-border {
+	border: solid 10px pink;
+}
+
+.cadre {
+	border: solid 10px pink;
+	margin: 50px ;
+	padding: 50px ;
+	border-radius: 25px ;
+	background: lightgreen;
+}
+
